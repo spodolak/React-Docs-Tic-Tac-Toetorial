@@ -2,3 +2,11 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.square {
+  background-color: rgb(147, 192, 232);
+  border-color: brown;
+  font-size: large;
+  height: 50px;
+  width: 50px;
+}
